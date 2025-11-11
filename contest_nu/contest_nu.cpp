@@ -17,6 +17,11 @@ int main() {
     result = n + (n - 2);
 
     cout << result;
+    cout << result;
+    cout << result;
+    cout << result;
+    cout << result;
+    cout << result;
 
     return 0;
 }
